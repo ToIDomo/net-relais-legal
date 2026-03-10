@@ -1,0 +1,4 @@
+Contact: mailto:abuse@net-relais.com
+Expires: 2027-01-01T00:00:00Z
+Preferred-Languages: en, fr
+Policy: https://legal.net-relais.com/aup
